@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "854842562231",
+    "firebase_url": "https://kmutt-news-4e27c.firebaseio.com",
+    "project_id": "kmutt-news-4e27c",
+    "storage_bucket": "kmutt-news-4e27c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854842562231:android:bfdbe9557484230f53df32",
+        "android_client_info": {
+          "package_name": "com.example.kmutt_news"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854842562231-uvc4mtsa7kjugvv4noptvrcmhsg1ogks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0UvXvueaXABfUmDZhSb-m5SCrqQlluos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854842562231-uvc4mtsa7kjugvv4noptvrcmhsg1ogks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
